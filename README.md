@@ -1,4 +1,4 @@
-# Mekktronix-Sales-Forecasting
+# ZS-Mekktronix-Sales-Forecasting
 
 Problem Statement was taken from a challenge on Hackerearth (ZS Data Science Challenge - 2018)
 
